@@ -3,6 +3,9 @@
 ## Overview
 This Spotify Clone is a fully responsive web application built using HTML, CSS, and plain JavaScript. It mimics the core functionality of the popular music streaming service, allowing users to browse albums, view song lists, and play music seamlessly. This project is designed to provide a clean and intuitive user interface, ensuring a great user experience across different devices, from mobile phones to large desktop screens.
 
+## URL
+https://spotify4sakshi.freewebhostmost.com/
+
 ## Features
 - **Responsive Design**: The application is fully responsive, providing an optimized experience on a variety of devices including mobile phones, tablets, and desktops.
 - **Dynamic Content Loading**: Albums and songs are fetched dynamically using JavaScript, ensuring up-to-date content and a smooth browsing experience.
